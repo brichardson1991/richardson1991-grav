@@ -1,6 +1,6 @@
 ---
 title: Home
-published: false
+published: true
 textformatter: true
 external_links:
     process: true
