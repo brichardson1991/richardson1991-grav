@@ -10,4 +10,4 @@ We will be back soon.
 
 Richardson1991 Admin
 
-{SOCIAL} 
+<hr/>
