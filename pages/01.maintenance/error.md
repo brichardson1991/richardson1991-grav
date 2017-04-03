@@ -1,7 +1,6 @@
 ---
 title: Maintenance
 published: true
-visible: true
 ---
 
 Richardson1991 is currently offline for Maintenance.
