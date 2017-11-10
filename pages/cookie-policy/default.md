@@ -1,5 +1,9 @@
 ---
 title: 'Cookie Policy'
+published: true
+date: '11/10/2017 10:09 am'
+googletitle: 'Cookie Policy'
+googledesc: 'Richardson1991''s cookie policy'
 twitterenable: true
 twittercardoptions: summary
 articleenabled: false
